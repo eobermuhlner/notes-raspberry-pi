@@ -16,6 +16,7 @@ This means you can probably not simply plug in your normal HDMI cable or keyboar
 ## Fix IP address
 
 Source: https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-give-your-raspberry-pi-a-static-ip-address-update
+
 Source: https://www.ionos.com/digitalguide/server/configuration/provide-raspberry-pi-with-a-static-ip-address
 
 Add to `/etc/dhcpcd.conf`:
