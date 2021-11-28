@@ -13,6 +13,14 @@ This means you can probably not simply plug in your normal HDMI cable or keyboar
 
 # Setup
 
+## Enable SSH
+
+In Desktop Click
+  - menu: Raspberry Icon/Preferences/Raspberry Pi Configuration
+  - tab: Interfaces
+  - SSH radiobutton: Enable
+  - button: OK
+
 ## Fix IP address
 
 Source: https://thepihut.com/blogs/raspberry-pi-tutorials/how-to-give-your-raspberry-pi-a-static-ip-address-update
