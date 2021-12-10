@@ -42,6 +42,25 @@ static routers=192.168.0.1
 static domain_name_servers=192.168.0.1 8.8.8.8
 ```
 
+# Applications
+
+## Magic Mirror
+
+Source: https://github.com/MichMich/MagicMirror
+
+
+For Raspberry Pi 3:
+
+Follow the installation instructions here: https://docs.magicmirror.builders/getting-started/installation.html
+
+For Raspberry Pi Zero:
+
+Consider the installation script here: https://forum.magicmirror.builders/topic/9386/installing-on-a-pi-zero
+(not successful sofar)
+
+
+
+
 
 
 
